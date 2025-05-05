@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Vaibhav!  
   
 
-<a href="https://github.com/https://github.com/iamvaibh9412" target="_blank">
+<a href="https://github.com/iamvaibh9412" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/vaibhavg108" target="_blank">
