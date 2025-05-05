@@ -53,6 +53,3 @@ My expertise lies in collecting, cleaning and analyzing large datasets using SQL
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
