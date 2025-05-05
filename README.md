@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 I'm an insightful and solutions-oriented data analyst with 3 years of experience turning complex data into actionable insights. I'm passionate about using data to drive business strategy and identify opportunities for growth and improvement.
 
-My expertise lies in collecting, cleaning and analyzing large datasets using SQL, Python, Machine Learning, Advance Excel and various BI tools. I'm adept at understanding business needs and translating them into focused analytical projects. Complex quantitative analyses excite me, and I particularly enjoy the challenge of deriving insights from messy, real-world data.  
+My expertise lies in collecting, cleaning, analyzing and predicting large datasets using SQL, Python, Advance Excel, BI tools like Power Bi, Tableau and Machine Learning. I'm adept at understanding business needs and translating them into focused analytical projects. Complex quantitative analyses excite me, and I particularly enjoy the challenge of deriving insights from messy, real-world data.  
   
 
 <br/>  
